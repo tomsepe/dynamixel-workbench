@@ -10,9 +10,9 @@ joint2:
 joint3:
   ID: 3
   Return_Delay_Time: 0
-joint4:
-  ID: 4
-  Return_Delay_Time: 0
+#joint4:
+#  ID: 4
+#  Return_Delay_Time: 0
 #joint5:
 #  ID: 5
 #  Return_Delay_Time: 0
